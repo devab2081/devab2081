@@ -74,7 +74,7 @@ I’m new to hacking — but extremely passionate about learning how systems fai
 
 # 🛡️ TryHackMe Progress  
 
-![TryHackMe Badge]<img src="https://tryhackme-badges.s3.amazonaws.com/devatoptamil.png" alt="Your Image Badge" />
+![TryHackMe Badge]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4972726" style='border:none;'></iframe>
 
 **Rank:** 🟢 `0x2 — Apprentice`  
 **Learning Path:** Web Fundamentals + Pre-Security  
