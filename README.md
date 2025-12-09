@@ -21,6 +21,14 @@ Currently exploring **Web Security**, **Linux Basics**, **Networking**, and **AI
 
 ---
 
+# ⚡ Hacker Banner
+
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+</p>
+
+---
+
 ## 🚀 What I'm Learning Right Now  
 
 - 🛡️ Ethical Hacking Basics  
@@ -93,6 +101,26 @@ I’m new to hacking — but extremely passionate about learning how systems fai
 | 🧰 **Tools** | Git · VS Code |
 
 ---
+
+# 💀 Hacker Animations Zone
+
+## 🔥 Matrix Rain
+<p align="center">
+  <img src="https://i.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="500">
+</p>
+
+## 👾 Hacker Terminal
+<p align="center">
+  <img src="https://i.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="550">
+</p>
+
+## 🐉 Kali Linux Dragon
+<p align="center">
+  <img src="https://i.giphy.com/media/2wh22KMpjuO5a/giphy.gif" width="480">
+</p>
+
+---
+
 # 🐍 Contribution Snake (Animated)
 
 ![snake gif](https://raw.githubusercontent.com/devab2081/devab2081/output/snake.svg)
