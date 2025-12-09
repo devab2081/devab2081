@@ -2,27 +2,69 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repository (with token)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true   # important: allow git push with GITHUB_TOKEN
+
+      - name: Setup Node (required by Platane/snk)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
       - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: devab2081
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Push generated snake.svg
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Show generated files
+        run: |
+          echo "---- dist contents ----"
+          ls -la dist || true
+          echo "file info:"
+          file dist/snake.svg || true
+
+      - name: Commit & push snake.svg to output branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # prepare a clean output branch
+          git fetch origin || true
+          if git show-ref --quiet refs/heads/output; then
+            git checkout output
+            git rm -rf . || true
+          else
+            git checkout --orphan output
+          fi
+
+          mkdir -p dist
+          cp -r dist/* ./dist/ || true
+
+          git add dist || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update snake.svg [skip ci]"
+
+          # push using the token (persist-credentials should handle this, but explicit URL is more robust)
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
