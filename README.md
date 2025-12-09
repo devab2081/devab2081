@@ -95,7 +95,8 @@ I’m new to hacking — but extremely passionate about learning how systems fai
 ---
 # 🐍 Contribution Snake (Animated)
 
-![snake gif]![snake gif](https://raw.githubusercontent.com/devab2081/devab2081/output/dist/snake.svg)
+![snake gif](https://raw.githubusercontent.com/devab2081/devab2081/output/snake.svg)
+
 
 ---
 
