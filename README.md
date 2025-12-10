@@ -95,7 +95,12 @@ I’m new to hacking — but extremely passionate about learning how systems fai
 ---
 
 ## 🔥 Contribution Heatmap
-![contribution heatmap](https://github-readme-activity-graph.vercel.app/graph?username=devab2081&theme=github-dark&custom_title=Devadharshan%27s%20Activity)
+![contribution heatmap](https://github-readme-activity-graph.vercel.app/graph?username=devab2081&theme=github-dark&custom_title=Devadharsan%20Activity)
+
+---
+
+## 📈 Activity Graph
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devab2081&theme=react-dark&area=true)
 
 ---
 
