@@ -99,10 +99,10 @@ I’m new to hacking — but extremely passionate about learning how systems fai
 
 ---
 
-## 📈 Activity Graph
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devab2081&theme=react-dark&area=true)
+<p align="center">
+  <img src="https://github-contribution-grid.glitch.me/your-github-devab2081.svg" width="700" />
+</p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devab2081&color=00ff9f">
