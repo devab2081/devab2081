@@ -94,13 +94,6 @@ I’m new to hacking — but extremely passionate about learning how systems fai
 
 ---
 
-# 🐍 Contribution Snake (Animated)
-
-![snake gif](https://raw.githubusercontent.com/devab2081/devab2081/output/snake.svg)
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devab2081&color=00ff9f">
 </p>
