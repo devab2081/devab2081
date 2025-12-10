@@ -41,7 +41,7 @@ AI-based CCTV system that detects weapons in real-time and triggers alerts.
 A simple Convolutional Neural Network that predicts handwritten digits.  
 `Python • TensorFlow • Neural Networks`
 
-### 🌦️ **Weather Forecasting Web App**  
+### 🌦️ **Secure User Login Portal with Profile & Gallery Modules**  
 Web app built using PHP to display real-time weather info.  
 `PHP • APIs • Web Dev Basics`
 
