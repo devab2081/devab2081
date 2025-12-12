@@ -2,7 +2,7 @@
 <!-- 🔥 DEVADHARSHAN | HACKER-THEMED GITHUB PROFILE README -->
 <!-- ====================================================== -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00ff99;">Devadharshan B</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00ff99;">Devadharsan B</span></h1>
 <h3 align="center">🔐 Ethical Hacking | Cybersecurity | AI Learner</h3>
 
 <p align="center">
