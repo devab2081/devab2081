@@ -2,7 +2,7 @@
 <!-- 🔥 DEVADHARSHAN | HACKER-THEMED GITHUB PROFILE README -->
 <!-- ====================================================== -->
 
-<h1 align="center"> Hi, I'm <span style="color:#00ff99;">Devadharsan B</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#00ff99;">Devadharsan </span></h1>
 <h3 align="center"> Ethical Hacking | Cybersecurity | AI Learner</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 #  About Me  
 
- **Hi, I'm Devadharsan B**  
+ **Hi, I'm Devadharsan**  
  Computer Science Student |  Ethical Hacking & Cybersecurity Beginner  
 
 Passionate about understanding how systems get hacked — and how to defend them the right way.  
