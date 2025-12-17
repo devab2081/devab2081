@@ -2,7 +2,7 @@
 <!-- 🔥 DEVADHARSHAN | HACKER-THEMED GITHUB PROFILE README -->
 <!-- ====================================================== -->
 
-<h1 align="center"> Hey, I'm <span style="color:#00ff99;">Devadharsan B</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#00ff99;">Devadharsan B</span></h1>
 <h3 align="center"> Ethical Hacking | Cybersecurity | AI Learner</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 #  About Me  
 
- **Hi, I'm Devadharshan B**  
+ **Hi, I'm Devadharsan B**  
  Computer Science Student |  Ethical Hacking & Cybersecurity Beginner  
 
 Passionate about understanding how systems get hacked — and how to defend them the right way.  
@@ -33,7 +33,7 @@ Currently exploring **Web Security**, **Linux Basics**, **Networking**, and **AI
 
 ##  My Projects  
 
-###  **Smart Surveillance – Real-Time Weapon Detection (YOLOv8)**  
+### - **Smart Surveillance – Real-Time Weapon Detection (YOLOv8)**  
 AI-based CCTV system that detects weapons in real-time and triggers alerts.  
 `Python • OpenCV • Deep Learning`
 
