@@ -33,19 +33,19 @@ Currently exploring **Web Security**, **Linux Basics**, **Networking**, and **AI
 
 ##  My Projects  
 
-### - **Smart Surveillance – Real-Time Weapon Detection (YOLOv8)**  
+### 1) **Smart Surveillance – Real-Time Weapon Detection (YOLOv8)**  
 AI-based CCTV system that detects weapons in real-time and triggers alerts.  
 `Python • OpenCV • Deep Learning`
 
-###  **Digit Recognition – CNN Model**  
+### 2) **Digit Recognition – CNN Model**  
 A simple Convolutional Neural Network that predicts handwritten digits.  
 `Python • TensorFlow • Neural Networks`
 
-###  **Secure User Login Portal with Profile & Gallery Modules**  
+### 3) **Secure User Login Portal with Profile & Gallery Modules**  
 Web app built using PHP to display real-time weather info.  
 `PHP • APIs • Web Dev Basics`
 
-###  **CRT Training Pages**  
+### 4) **CRT Training Pages**  
 Basic HTML pages created for college CRT practice and UI training.  
 `HTML • CSS`
 
@@ -53,11 +53,11 @@ Basic HTML pages created for college CRT practice and UI training.
 
 ##  Interests  
 
- Ethical Hacking  
- Web Security  
- Linux  
- AI + Computer Vision  
- Networking  
+ - Ethical Hacking  
+ - Web Security  
+ - Linux  
+ - AI + Computer Vision  
+ - Networking  
 
 ---
 
