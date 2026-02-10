@@ -37,15 +37,31 @@ Currently exploring **Web Security**, **Linux Basics**, **Networking**, and **AI
 AI-based CCTV system that detects weapons in real-time and triggers alerts.  
 `Python • OpenCV • Deep Learning`
 
-### 2) **Digit Recognition – CNN Model**  
-A simple Convolutional Neural Network that predicts handwritten digits.  
-`Python • TensorFlow • Neural Networks`
+### 2) Fraud Detection System – Machine Learning
+Machine Learning based system to identify fraudulent transactions using classification techniques.  
+**Tech:** Python • Machine Learning • Data Analysis
 
-### 3) **Secure User Login Portal with Profile & Gallery Modules**  
+### 3) USB Guardian – GUI Based USB Security Scanner
+GUI-based desktop application to scan USB drives for suspicious and malicious files.  
+**Tech:** Python • GUI • Cyber Security
+
+### 4) Ethical Hacking – Learning Daily Log
+Daily learning log documenting ethical hacking concepts, tools, and hands-on practice.  
+**Tech:** Networking • Linux • Ethical Hacking
+
+### 5) IoT Based Smart Street Lighting System
+IoT automation project that controls street lights based on environmental conditions to save power.  
+**Tech:** IoT • Sensors • Automation • Embedded Systems
+
+### 6) **Secure User Login Portal with Profile & Gallery Modules**  
 Web app built using PHP to display real-time weather info.  
 `PHP • APIs • Web Dev Basics`
 
-### 4) **CRT Training Pages**  
+### 7) **Digit Recognition – CNN Model**  
+A simple Convolutional Neural Network that predicts handwritten digits.  
+`Python • TensorFlow • Neural Networks`
+
+### 8) **CRT Training Pages**  
 Basic HTML pages created for college CRT practice and UI training.  
 `HTML • CSS`
 
